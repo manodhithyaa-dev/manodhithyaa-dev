@@ -6,9 +6,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manodhithyaa.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://manodhithyaa.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manodhithyaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-reachme@manodhithyaa.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachme@manodhithyaa.me)
+[![Portfolio]](https://manodhithyaa.me)
+[![LinkedIn]](https://linkedin.com/in/manodhithyaa)
+[![Email]](mailto:reachme@manodhithyaa.me)
 
 </div>
 
@@ -214,11 +214,11 @@ Explore:
 
 # 📫 Contact
 
-📧 reachme@manodhithyaa.me
+[![📧 reachme@manodhithyaa.me]](mailto:reachme@manodhithyaa.me)
 
-💼 LinkedIn
+[![💼 LinkedIn]](https://linkedin.com/in/manodhithyaa)
 
-🌐 manodhithyaa.me
+[![🌐 manodhithyaa.me]](https://manodhithyaa.me)
 
 ---
 
