@@ -6,9 +6,9 @@
 
 <br>
 
-[![Portfolio]](https://manodhithyaa.me)
-[![LinkedIn]](https://linkedin.com/in/manodhithyaa)
-[![Email]](mailto:reachme@manodhithyaa.me)
+[[Portfolio]](https://manodhithyaa.me)
+[[LinkedIn]](https://linkedin.com/in/manodhithyaa)
+[[Email]](mailto:reachme@manodhithyaa.me)
 
 </div>
 
@@ -214,11 +214,11 @@ Explore:
 
 # 📫 Contact
 
-[![📧 reachme@manodhithyaa.me]](mailto:reachme@manodhithyaa.me)
+[[📧 reachme@manodhithyaa.me]](mailto:reachme@manodhithyaa.me)
 
-[![💼 LinkedIn]](https://linkedin.com/in/manodhithyaa)
+[[💼 LinkedIn]](https://linkedin.com/in/manodhithyaa)
 
-[![🌐 manodhithyaa.me]](https://manodhithyaa.me)
+[[🌐 manodhithyaa.me]](https://manodhithyaa.me)
 
 ---
 
